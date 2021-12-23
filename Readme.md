@@ -23,3 +23,6 @@ Once you run the SpringApi configuration the endpoints will shows up as below:
 
 # Swagger UI
 
+Run the browser on http://localhost:5001/swagger/index.html you'll see the Swagger UI:
+
+![](jpg/swagger.jpg)

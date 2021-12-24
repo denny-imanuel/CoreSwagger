@@ -1,7 +1,7 @@
 ﻿# Core API
 by Denny Imanuel
 
-This project shows how to build C#.Net Core API
+This project shows how to build C#.Net Core API with Swagger UI
 
 ### Requirement
 

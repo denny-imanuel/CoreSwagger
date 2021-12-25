@@ -1,7 +1,7 @@
 ﻿# Core API
 by Denny Imanuel
 
-This project shows how to build C#.Net Core API with Swagger UI
+This project shows how to build Rest API complete with Swagger UI using C# programming language and Dot Net Core framework.
 
 ### Requirement
 
